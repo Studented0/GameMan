@@ -5550,7 +5550,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 125.73 67.31 0)
 			(effects
 				(font
@@ -5896,7 +5896,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0da8bdfc-1bf3-46cd-997e-252aab8ae086")
-		(property "Reference" "#PWR037"
+		(property "Reference" "#PWR036"
 			(at 127 166.37 0)
 			(effects
 				(font
@@ -5947,7 +5947,7 @@
 		(instances
 			(project ""
 				(path "/0f307d1e-ab7f-4476-b784-c1deb8afb99c"
-					(reference "#PWR037")
+					(reference "#PWR036")
 					(unit 1)
 				)
 			)
@@ -5963,7 +5963,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0e1903de-6fd7-4571-9874-2307fe35c23c")
-		(property "Reference" "#PWR016"
+		(property "Reference" "#PWR015"
 			(at 80.01 153.67 0)
 			(effects
 				(font
@@ -6014,7 +6014,7 @@
 		(instances
 			(project ""
 				(path "/0f307d1e-ab7f-4476-b784-c1deb8afb99c"
-					(reference "#PWR016")
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -6097,7 +6097,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1018a43e-606a-4376-8038-f45216730018")
-		(property "Reference" "#PWR032"
+		(property "Reference" "#PWR031"
 			(at 105.41 149.86 0)
 			(effects
 				(font
@@ -6148,7 +6148,7 @@
 		(instances
 			(project ""
 				(path "/0f307d1e-ab7f-4476-b784-c1deb8afb99c"
-					(reference "#PWR032")
+					(reference "#PWR031")
 					(unit 1)
 				)
 			)
@@ -6164,7 +6164,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "10d1a0b4-3653-47cc-b6e9-6ee009589fef")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR024"
 			(at 93.98 193.04 0)
 			(effects
 				(font
@@ -6215,7 +6215,7 @@
 		(instances
 			(project ""
 				(path "/0f307d1e-ab7f-4476-b784-c1deb8afb99c"
-					(reference "#PWR025")
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -6231,7 +6231,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "12ff9b93-2b04-4082-b978-9c8240ac46a9")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR023"
 			(at 85.09 179.07 0)
 			(effects
 				(font
@@ -6282,7 +6282,7 @@
 		(instances
 			(project ""
 				(path "/0f307d1e-ab7f-4476-b784-c1deb8afb99c"
-					(reference "#PWR024")
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -6460,7 +6460,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "13997934-9cfa-47a3-ae17-8a6427e651d4")
-		(property "Reference" "#PWR021"
+		(property "Reference" "#PWR020"
 			(at 78.74 198.12 0)
 			(effects
 				(font
@@ -6510,7 +6510,7 @@
 		(instances
 			(project ""
 				(path "/0f307d1e-ab7f-4476-b784-c1deb8afb99c"
-					(reference "#PWR021")
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -6526,7 +6526,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1701cfa5-8b6e-468f-a584-43dfed509acb")
-		(property "Reference" "#PWR045"
+		(property "Reference" "#PWR043"
 			(at 152.4 147.32 0)
 			(effects
 				(font
@@ -6577,7 +6577,7 @@
 		(instances
 			(project ""
 				(path "/0f307d1e-ab7f-4476-b784-c1deb8afb99c"
-					(reference "#PWR045")
+					(reference "#PWR043")
 					(unit 1)
 				)
 			)
@@ -6729,7 +6729,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1d030975-0b8d-40bc-959d-5dbc7df03a66")
-		(property "Reference" "#FLG03"
+		(property "Reference" "#FLG02"
 			(at 161.29 20.955 0)
 			(effects
 				(font
@@ -6779,7 +6779,7 @@
 		(instances
 			(project "GameMan"
 				(path "/0f307d1e-ab7f-4476-b784-c1deb8afb99c"
-					(reference "#FLG03")
+					(reference "#FLG02")
 					(unit 1)
 				)
 			)
@@ -6795,7 +6795,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "298ff98d-6484-4f40-81b4-3c6e9c21d8c3")
-		(property "Reference" "#PWR047"
+		(property "Reference" "#PWR046"
 			(at 158.75 102.87 0)
 			(effects
 				(font
@@ -6846,7 +6846,7 @@
 		(instances
 			(project ""
 				(path "/0f307d1e-ab7f-4476-b784-c1deb8afb99c"
-					(reference "#PWR047")
+					(reference "#PWR046")
 					(unit 1)
 				)
 			)
@@ -6862,7 +6862,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2bc0f114-1b96-4020-81b3-5cc50744c619")
-		(property "Reference" "#PWR046"
+		(property "Reference" "#PWR044"
 			(at 146.05 148.59 0)
 			(effects
 				(font
@@ -6912,7 +6912,7 @@
 		(instances
 			(project ""
 				(path "/0f307d1e-ab7f-4476-b784-c1deb8afb99c"
-					(reference "#PWR046")
+					(reference "#PWR044")
 					(unit 1)
 				)
 			)
@@ -7135,7 +7135,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "382fcf47-0642-444e-9b84-7c34dadcd938")
-		(property "Reference" "#PWR018"
+		(property "Reference" "#PWR017"
 			(at 76.2 198.12 0)
 			(effects
 				(font
@@ -7185,7 +7185,7 @@
 		(instances
 			(project ""
 				(path "/0f307d1e-ab7f-4476-b784-c1deb8afb99c"
-					(reference "#PWR018")
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -7477,7 +7477,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3e8a9a1e-a4ac-4150-8110-518b6ab6f4eb")
-		(property "Reference" "#PWR044"
+		(property "Reference" "#PWR042"
 			(at 137.16 134.62 0)
 			(effects
 				(font
@@ -7528,7 +7528,7 @@
 		(instances
 			(project "GameMan"
 				(path "/0f307d1e-ab7f-4476-b784-c1deb8afb99c"
-					(reference "#PWR044")
+					(reference "#PWR042")
 					(unit 1)
 				)
 			)
@@ -7613,7 +7613,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "41d303ec-e74a-4e97-a583-6531a1fc9d51")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR019"
 			(at 78.74 170.18 0)
 			(effects
 				(font
@@ -7663,7 +7663,7 @@
 		(instances
 			(project ""
 				(path "/0f307d1e-ab7f-4476-b784-c1deb8afb99c"
-					(reference "#PWR020")
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -7679,7 +7679,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "45ee63a5-16c4-4946-b93d-8c6dfefe912d")
-		(property "Reference" "#PWR063"
+		(property "Reference" "#PWR045"
 			(at 151.13 29.21 0)
 			(effects
 				(font
@@ -7729,7 +7729,7 @@
 		(instances
 			(project ""
 				(path "/0f307d1e-ab7f-4476-b784-c1deb8afb99c"
-					(reference "#PWR063")
+					(reference "#PWR045")
 					(unit 1)
 				)
 			)
@@ -7745,7 +7745,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "471d1fb5-7e11-4f1d-9818-8ea58b0decd9")
-		(property "Reference" "SW12"
+		(property "Reference" "SW11"
 			(at 193.04 105.41 0)
 			(effects
 				(font
@@ -7830,7 +7830,7 @@
 		(instances
 			(project "GameMan"
 				(path "/0f307d1e-ab7f-4476-b784-c1deb8afb99c"
-					(reference "SW12")
+					(reference "SW11")
 					(unit 1)
 				)
 			)
@@ -7913,7 +7913,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4d747999-ce47-4875-a936-14edc8b78e81")
-		(property "Reference" "#FLG02"
+		(property "Reference" "#FLG01"
 			(at 151.13 20.955 0)
 			(effects
 				(font
@@ -7963,7 +7963,7 @@
 		(instances
 			(project "GameMan"
 				(path "/0f307d1e-ab7f-4476-b784-c1deb8afb99c"
-					(reference "#FLG02")
+					(reference "#FLG01")
 					(unit 1)
 				)
 			)
@@ -7979,7 +7979,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4e5fed24-f482-4506-89fa-b64c86e65351")
-		(property "Reference" "#PWR064"
+		(property "Reference" "#PWR049"
 			(at 161.29 19.05 0)
 			(effects
 				(font
@@ -8029,7 +8029,7 @@
 		(instances
 			(project ""
 				(path "/0f307d1e-ab7f-4476-b784-c1deb8afb99c"
-					(reference "#PWR064")
+					(reference "#PWR049")
 					(unit 1)
 				)
 			)
@@ -8114,7 +8114,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "593f1ac2-0f9b-4ac0-8c2d-1e8f468db585")
-		(property "Reference" "#PWR027"
+		(property "Reference" "#PWR026"
 			(at 102.87 181.61 0)
 			(effects
 				(font
@@ -8165,7 +8165,7 @@
 		(instances
 			(project "GameMan"
 				(path "/0f307d1e-ab7f-4476-b784-c1deb8afb99c"
-					(reference "#PWR027")
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -8250,7 +8250,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5f5fde01-d10e-49a4-b698-0bf3597de726")
-		(property "Reference" "#PWR035"
+		(property "Reference" "#PWR034"
 			(at 124.46 62.23 0)
 			(effects
 				(font
@@ -8301,7 +8301,7 @@
 		(instances
 			(project ""
 				(path "/0f307d1e-ab7f-4476-b784-c1deb8afb99c"
-					(reference "#PWR035")
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)
@@ -8317,7 +8317,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5f68c5a0-a2eb-4248-be5e-2b00807c2651")
-		(property "Reference" "#PWR026"
+		(property "Reference" "#PWR025"
 			(at 102.87 95.25 0)
 			(effects
 				(font
@@ -8368,7 +8368,7 @@
 		(instances
 			(project "GameMan"
 				(path "/0f307d1e-ab7f-4476-b784-c1deb8afb99c"
-					(reference "#PWR026")
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -8384,7 +8384,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "62b3c3d9-a04f-4061-bf38-4b8f0cfda289")
-		(property "Reference" "#PWR061"
+		(property "Reference" "#PWR062"
 			(at 205.74 134.62 0)
 			(effects
 				(font
@@ -8435,7 +8435,7 @@
 		(instances
 			(project "GameMan"
 				(path "/0f307d1e-ab7f-4476-b784-c1deb8afb99c"
-					(reference "#PWR061")
+					(reference "#PWR062")
 					(unit 1)
 				)
 			)
@@ -8451,7 +8451,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "664a6110-f86d-4779-9174-db68fc99c03e")
-		(property "Reference" "#PWR014"
+		(property "Reference" "#PWR013"
 			(at 69.85 34.29 0)
 			(effects
 				(font
@@ -8502,7 +8502,7 @@
 		(instances
 			(project ""
 				(path "/0f307d1e-ab7f-4476-b784-c1deb8afb99c"
-					(reference "#PWR014")
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -8518,7 +8518,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "66866c4b-6ab4-4907-9687-6531b2b82ec6")
-		(property "Reference" "SW10"
+		(property "Reference" "SW9"
 			(at 172.72 121.92 0)
 			(effects
 				(font
@@ -8603,7 +8603,7 @@
 		(instances
 			(project "GameMan"
 				(path "/0f307d1e-ab7f-4476-b784-c1deb8afb99c"
-					(reference "SW10")
+					(reference "SW9")
 					(unit 1)
 				)
 			)
@@ -8635,7 +8635,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ESP32-S3-DEVKITC-1-N8R2:XCVR_ESP32-S3-DEVKITC-1-N8R2"
+		(property "Footprint" "easyeda:XCVR_ESP32-S3-DEVKITC-1-N8R2"
 			(at 50.8 62.23 0)
 			(effects
 				(font
@@ -8942,7 +8942,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "LEDGREEN"
 			(at 57.4675 181.61 0)
 			(effects
 				(font
@@ -9011,7 +9011,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6caadbfc-a9eb-4cae-99d5-693f351a8292")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR014"
 			(at 80.01 92.71 0)
 			(effects
 				(font
@@ -9062,7 +9062,7 @@
 		(instances
 			(project ""
 				(path "/0f307d1e-ab7f-4476-b784-c1deb8afb99c"
-					(reference "#PWR015")
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
@@ -9078,7 +9078,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6eaad44a-7132-4b4a-ab1b-0e49bc832040")
-		(property "Reference" "#PWR041"
+		(property "Reference" "#PWR039"
 			(at 138.43 187.96 0)
 			(effects
 				(font
@@ -9129,7 +9129,7 @@
 		(instances
 			(project ""
 				(path "/0f307d1e-ab7f-4476-b784-c1deb8afb99c"
-					(reference "#PWR041")
+					(reference "#PWR039")
 					(unit 1)
 				)
 			)
@@ -9214,7 +9214,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "70ac440e-d6fb-4800-82ca-f87032b2f4a8")
-		(property "Reference" "#PWR031"
+		(property "Reference" "#PWR030"
 			(at 106.68 64.77 0)
 			(effects
 				(font
@@ -9264,7 +9264,7 @@
 		(instances
 			(project "GameMan"
 				(path "/0f307d1e-ab7f-4476-b784-c1deb8afb99c"
-					(reference "#PWR031")
+					(reference "#PWR030")
 					(unit 1)
 				)
 			)
@@ -9414,7 +9414,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "76203263-882a-416b-8c38-1f0a295c97db")
-		(property "Reference" "#PWR029"
+		(property "Reference" "#PWR028"
 			(at 107.95 19.05 0)
 			(effects
 				(font
@@ -9465,7 +9465,7 @@
 		(instances
 			(project ""
 				(path "/0f307d1e-ab7f-4476-b784-c1deb8afb99c"
-					(reference "#PWR029")
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -9548,7 +9548,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7e47af9f-051d-4ea5-918f-69b21c973320")
-		(property "Reference" "SW8"
+		(property "Reference" "SW7"
 			(at 172.72 90.17 0)
 			(effects
 				(font
@@ -9633,7 +9633,7 @@
 		(instances
 			(project "GameMan"
 				(path "/0f307d1e-ab7f-4476-b784-c1deb8afb99c"
-					(reference "SW8")
+					(reference "SW7")
 					(unit 1)
 				)
 			)
@@ -9649,7 +9649,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "83e992dc-7407-44c8-91ef-dff396c46e3b")
-		(property "Reference" "#PWR030"
+		(property "Reference" "#PWR029"
 			(at 111.76 72.39 0)
 			(effects
 				(font
@@ -9700,7 +9700,7 @@
 		(instances
 			(project ""
 				(path "/0f307d1e-ab7f-4476-b784-c1deb8afb99c"
-					(reference "#PWR030")
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)
@@ -9716,7 +9716,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "84910cc4-09af-445d-827d-d9b00fd02e35")
-		(property "Reference" "#FLG05"
+		(property "Reference" "#FLG03"
 			(at 181.61 20.955 0)
 			(effects
 				(font
@@ -9766,7 +9766,7 @@
 		(instances
 			(project "GameMan"
 				(path "/0f307d1e-ab7f-4476-b784-c1deb8afb99c"
-					(reference "#FLG05")
+					(reference "#FLG03")
 					(unit 1)
 				)
 			)
@@ -9918,7 +9918,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8c472695-d9e8-431e-adfa-21407812d2a9")
-		(property "Reference" "SW13"
+		(property "Reference" "SW12"
 			(at 194.31 121.92 0)
 			(effects
 				(font
@@ -10003,7 +10003,7 @@
 		(instances
 			(project "GameMan"
 				(path "/0f307d1e-ab7f-4476-b784-c1deb8afb99c"
-					(reference "SW13")
+					(reference "SW12")
 					(unit 1)
 				)
 			)
@@ -10019,7 +10019,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8d9eb1dc-7a4b-4948-82c9-13701c34e138")
-		(property "Reference" "#PWR043"
+		(property "Reference" "#PWR041"
 			(at 137.16 119.38 0)
 			(effects
 				(font
@@ -10070,7 +10070,7 @@
 		(instances
 			(project "GameMan"
 				(path "/0f307d1e-ab7f-4476-b784-c1deb8afb99c"
-					(reference "#PWR043")
+					(reference "#PWR041")
 					(unit 1)
 				)
 			)
@@ -10224,7 +10224,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "91c703da-84df-435c-a3cd-1d750812058f")
-		(property "Reference" "#PWR019"
+		(property "Reference" "#PWR018"
 			(at 82.55 19.05 0)
 			(effects
 				(font
@@ -10275,7 +10275,7 @@
 		(instances
 			(project ""
 				(path "/0f307d1e-ab7f-4476-b784-c1deb8afb99c"
-					(reference "#PWR019")
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -10307,7 +10307,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12"
 			(at 38.1 165.1 0)
 			(effects
 				(font
@@ -10404,7 +10404,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "992e6ae5-c10e-4ba1-b37f-a45923f18ff5")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR022"
 			(at 80.01 95.25 0)
 			(effects
 				(font
@@ -10455,7 +10455,7 @@
 		(instances
 			(project "GameMan"
 				(path "/0f307d1e-ab7f-4476-b784-c1deb8afb99c"
-					(reference "#PWR023")
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -10471,7 +10471,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9b64eb8b-5e82-4ef9-a697-5c26e5f4ef2d")
-		(property "Reference" "#PWR028"
+		(property "Reference" "#PWR027"
 			(at 101.6 163.83 0)
 			(effects
 				(font
@@ -10521,7 +10521,7 @@
 		(instances
 			(project ""
 				(path "/0f307d1e-ab7f-4476-b784-c1deb8afb99c"
-					(reference "#PWR028")
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -10604,7 +10604,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a07ec42e-ba5f-4dd1-8230-17d121368412")
-		(property "Reference" "#PWR042"
+		(property "Reference" "#PWR040"
 			(at 135.89 102.87 0)
 			(effects
 				(font
@@ -10655,7 +10655,7 @@
 		(instances
 			(project "GameMan"
 				(path "/0f307d1e-ab7f-4476-b784-c1deb8afb99c"
-					(reference "#PWR042")
+					(reference "#PWR040")
 					(unit 1)
 				)
 			)
@@ -10839,7 +10839,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a391fb87-6a17-4b8e-bf70-206ccbb4c40b")
-		(property "Reference" "SW6"
+		(property "Reference" "SW5"
 			(at 148.59 106.68 0)
 			(effects
 				(font
@@ -10924,7 +10924,7 @@
 		(instances
 			(project "GameMan"
 				(path "/0f307d1e-ab7f-4476-b784-c1deb8afb99c"
-					(reference "SW6")
+					(reference "SW5")
 					(unit 1)
 				)
 			)
@@ -10940,7 +10940,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a9723251-9a14-4467-a4a9-667608059bf4")
-		(property "Reference" "#PWR060"
+		(property "Reference" "#PWR061"
 			(at 204.47 118.11 0)
 			(effects
 				(font
@@ -10991,7 +10991,7 @@
 		(instances
 			(project "GameMan"
 				(path "/0f307d1e-ab7f-4476-b784-c1deb8afb99c"
-					(reference "#PWR060")
+					(reference "#PWR061")
 					(unit 1)
 				)
 			)
@@ -11074,7 +11074,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a9e58c74-31ab-42a5-8dfc-88c78e4fa394")
-		(property "Reference" "#PWR065"
+		(property "Reference" "#PWR059"
 			(at 196.85 17.78 0)
 			(effects
 				(font
@@ -11124,7 +11124,7 @@
 		(instances
 			(project ""
 				(path "/0f307d1e-ab7f-4476-b784-c1deb8afb99c"
-					(reference "#PWR065")
+					(reference "#PWR059")
 					(unit 1)
 				)
 			)
@@ -11140,7 +11140,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "aafd1c1b-a4f1-4226-abed-45069907370c")
-		(property "Reference" "#PWR034"
+		(property "Reference" "#PWR033"
 			(at 116.84 166.37 0)
 			(effects
 				(font
@@ -11191,7 +11191,7 @@
 		(instances
 			(project ""
 				(path "/0f307d1e-ab7f-4476-b784-c1deb8afb99c"
-					(reference "#PWR034")
+					(reference "#PWR033")
 					(unit 1)
 				)
 			)
@@ -11207,7 +11207,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ac9bdc1a-9c38-4c38-a681-d4fcd97a5a07")
-		(property "Reference" "#PWR039"
+		(property "Reference" "#PWR037"
 			(at 128.27 39.37 0)
 			(effects
 				(font
@@ -11257,7 +11257,7 @@
 		(instances
 			(project ""
 				(path "/0f307d1e-ab7f-4476-b784-c1deb8afb99c"
-					(reference "#PWR039")
+					(reference "#PWR037")
 					(unit 1)
 				)
 			)
@@ -11342,7 +11342,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b33ceee8-7549-444c-af8d-b6ddd3a79778")
-		(property "Reference" "SW7"
+		(property "Reference" "SW6"
 			(at 148.59 121.92 0)
 			(effects
 				(font
@@ -11427,7 +11427,7 @@
 		(instances
 			(project "GameMan"
 				(path "/0f307d1e-ab7f-4476-b784-c1deb8afb99c"
-					(reference "SW7")
+					(reference "SW6")
 					(unit 1)
 				)
 			)
@@ -11443,7 +11443,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b50a36bb-657f-4734-8ffe-00a783397f5f")
-		(property "Reference" "SW11"
+		(property "Reference" "SW10"
 			(at 193.04 90.17 0)
 			(effects
 				(font
@@ -11528,7 +11528,7 @@
 		(instances
 			(project "GameMan"
 				(path "/0f307d1e-ab7f-4476-b784-c1deb8afb99c"
-					(reference "SW11")
+					(reference "SW10")
 					(unit 1)
 				)
 			)
@@ -11680,7 +11680,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c24fc90e-7a3d-42b3-9780-860c9d596966")
-		(property "Reference" "SW5"
+		(property "Reference" "SW4"
 			(at 147.32 90.17 0)
 			(effects
 				(font
@@ -11765,7 +11765,7 @@
 		(instances
 			(project ""
 				(path "/0f307d1e-ab7f-4476-b784-c1deb8afb99c"
-					(reference "SW5")
+					(reference "SW4")
 					(unit 1)
 				)
 			)
@@ -11781,7 +11781,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c9d4e9fb-4dd3-4ecc-b543-6919e11b9b1b")
-		(property "Reference" "#PWR017"
+		(property "Reference" "#PWR016"
 			(at 80.01 157.48 0)
 			(effects
 				(font
@@ -11832,7 +11832,7 @@
 		(instances
 			(project ""
 				(path "/0f307d1e-ab7f-4476-b784-c1deb8afb99c"
-					(reference "#PWR017")
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -11848,7 +11848,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cc915a23-8966-46bf-8a65-4b0695baaf53")
-		(property "Reference" "#PWR049"
+		(property "Reference" "#PWR048"
 			(at 160.02 134.62 0)
 			(effects
 				(font
@@ -11899,7 +11899,7 @@
 		(instances
 			(project "GameMan"
 				(path "/0f307d1e-ab7f-4476-b784-c1deb8afb99c"
-					(reference "#PWR049")
+					(reference "#PWR048")
 					(unit 1)
 				)
 			)
@@ -11923,7 +11923,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "LEDRED"
 			(at 57.4675 185.42 0)
 			(effects
 				(font
@@ -11992,7 +11992,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d1255e6c-ffa0-4b6d-bd3e-8438e04bd61a")
-		(property "Reference" "#PWR036"
+		(property "Reference" "#PWR035"
 			(at 127 157.48 0)
 			(effects
 				(font
@@ -12043,7 +12043,7 @@
 		(instances
 			(project ""
 				(path "/0f307d1e-ab7f-4476-b784-c1deb8afb99c"
-					(reference "#PWR036")
+					(reference "#PWR035")
 					(unit 1)
 				)
 			)
@@ -12059,7 +12059,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d46b0a4c-f1bb-4b2b-b83d-25bacc8cbca2")
-		(property "Reference" "SW4"
+		(property "Reference" "SW3"
 			(at 128.27 170.18 0)
 			(effects
 				(font
@@ -12111,7 +12111,7 @@
 		(instances
 			(project ""
 				(path "/0f307d1e-ab7f-4476-b784-c1deb8afb99c"
-					(reference "SW4")
+					(reference "SW3")
 					(unit 1)
 				)
 			)
@@ -12127,7 +12127,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d491e8c6-d730-4db6-95f6-160c0d0939ff")
-		(property "Reference" "#FLG06"
+		(property "Reference" "#FLG04"
 			(at 196.85 19.685 0)
 			(effects
 				(font
@@ -12177,7 +12177,7 @@
 		(instances
 			(project "GameMan"
 				(path "/0f307d1e-ab7f-4476-b784-c1deb8afb99c"
-					(reference "#FLG06")
+					(reference "#FLG04")
 					(unit 1)
 				)
 			)
@@ -12260,7 +12260,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d8a5d8ea-3305-4305-b7dd-c2c8719a51f8")
-		(property "Reference" "#PWR033"
+		(property "Reference" "#PWR032"
 			(at 118.11 19.05 0)
 			(effects
 				(font
@@ -12311,7 +12311,7 @@
 		(instances
 			(project ""
 				(path "/0f307d1e-ab7f-4476-b784-c1deb8afb99c"
-					(reference "#PWR033")
+					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -12462,7 +12462,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "da7208a9-2992-41a2-be36-a341f3e8829e")
-		(property "Reference" "#PWR048"
+		(property "Reference" "#PWR047"
 			(at 160.02 119.38 0)
 			(effects
 				(font
@@ -12513,7 +12513,7 @@
 		(instances
 			(project "GameMan"
 				(path "/0f307d1e-ab7f-4476-b784-c1deb8afb99c"
-					(reference "#PWR048")
+					(reference "#PWR047")
 					(unit 1)
 				)
 			)
@@ -12529,7 +12529,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dad56616-9b2a-41e8-8023-4e5781bc82d9")
-		(property "Reference" "#PWR059"
+		(property "Reference" "#PWR060"
 			(at 204.47 102.87 0)
 			(effects
 				(font
@@ -12580,7 +12580,7 @@
 		(instances
 			(project "GameMan"
 				(path "/0f307d1e-ab7f-4476-b784-c1deb8afb99c"
-					(reference "#PWR059")
+					(reference "#PWR060")
 					(unit 1)
 				)
 			)
@@ -12597,7 +12597,7 @@
 		(fields_autoplaced yes)
 		(uuid "e1af1994-ee9f-482c-bc3a-deb99e26a5d8")
 		(property "Reference" "JDISPLAY1"
-			(at 114.3 21.59 90)
+			(at 114.3 24.13 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12613,7 +12613,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x14_P1.00mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x14_P2.54mm_Vertical"
 			(at 113.03 27.94 0)
 			(effects
 				(font
@@ -12904,7 +12904,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ed1993ab-9341-4afa-8b84-162ffe959bb7")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR021"
 			(at 92.71 19.05 0)
 			(effects
 				(font
@@ -12955,7 +12955,7 @@
 		(instances
 			(project "GameMan"
 				(path "/0f307d1e-ab7f-4476-b784-c1deb8afb99c"
-					(reference "#PWR022")
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -12971,7 +12971,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ee92a847-ad13-4393-87cd-e954c290d3b2")
-		(property "Reference" "#PWR040"
+		(property "Reference" "#PWR038"
 			(at 130.81 31.75 0)
 			(effects
 				(font
@@ -13021,7 +13021,7 @@
 		(instances
 			(project ""
 				(path "/0f307d1e-ab7f-4476-b784-c1deb8afb99c"
-					(reference "#PWR040")
+					(reference "#PWR038")
 					(unit 1)
 				)
 			)
@@ -13037,7 +13037,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ef041f5c-2e74-41a6-a409-1e9a460b0be4")
-		(property "Reference" "SW9"
+		(property "Reference" "SW8"
 			(at 172.72 106.68 0)
 			(effects
 				(font
@@ -13122,7 +13122,7 @@
 		(instances
 			(project "GameMan"
 				(path "/0f307d1e-ab7f-4476-b784-c1deb8afb99c"
-					(reference "SW9")
+					(reference "SW8")
 					(unit 1)
 				)
 			)

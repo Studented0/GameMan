@@ -10,7 +10,8 @@ A handheld Game Boy emulator with a Fat form factor,  tactile buttons, 3.5" disp
 
 <img width="430" height="641" alt="image" src="https://github.com/user-attachments/assets/c9a2e07b-a6f1-462d-a7f8-a4ba07ee2e87" />
 
-Full schematic PDF: [GameMan.pdf](https://github.com/user-attachments/files/27543807/GameMan.pdf)
+Full schematic PDF: [GameMan.pdf](https://github.com/user-attachments/files/27543807/GameMan.pdf) <img width="1054" height="724" alt="image" src="https://github.com/user-attachments/assets/139d2297-83d3-4588-bc98-e76dda391d51" />
+
 
 ## How it works
 
